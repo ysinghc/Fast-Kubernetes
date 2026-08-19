@@ -1047,3 +1047,4 @@ sensible-browser http://127.0.0.1:45771/api/v1/namespaces/kubernetes-dashboard/s
 - [KubernetesTutorial](https://kubernetes.io/docs/tutorials/)
 - [udemy-course:Kubernetes-Temelleri](https://www.udemy.com/course/kubernetes-temelleri/)
 - [Helm.sh](https://helm.sh/)
+ [mirror-test-sync]
